@@ -1,3 +1,7 @@
+body {
+  background-color: brown;
+}
+
 section#gitKomandos > ul {
   max-width: 80%;
   margin: 30px auto 0;
@@ -6,3 +10,4 @@ section#gitKomandos > ul {
   color: white;
   font-size: 1.5rem;
 }
+
